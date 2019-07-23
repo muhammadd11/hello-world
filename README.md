@@ -60,7 +60,7 @@ my git hub repository pages
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item active">
-      <img src="IMG_2438.JPG" alt="senja">
+      <img src="IMG_2738.JPG" alt="senja">
     </div>
 
     <div class="item">
@@ -68,7 +68,7 @@ my git hub repository pages
     </div>
 
     <div class="item">
-      <img src="" alt="senja">
+      <img src="IMG_2738.JPG" alt="senja">
     </div>
   </div>
 
