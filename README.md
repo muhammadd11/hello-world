@@ -65,7 +65,7 @@ my git hub repository pages
     </div>
 
     <div class="item">
-      <img src="C:\Users\m.doni cahyo\Pictures\fkap\IMG_2739.jpg" alt="senja">
+      <img src="IMG_2738.JPG" alt="senja">
     </div>
 
     <div class="item">
