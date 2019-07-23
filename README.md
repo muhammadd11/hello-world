@@ -1,6 +1,5 @@
 # hello-world
 my git hub repository pages
-<!DOCTYPE html>
 <html>
 <head>
 	<!-- Latest compiled and minified CSS -->
@@ -69,7 +68,7 @@ my git hub repository pages
     </div>
 
     <div class="item">
-      <img src="C:\Users\m.doni cahyo\Pictures\fkap\IMG_2746.jpg" alt="senja">
+      <img src="IMG_2478.JPG" alt="senja">
     </div>
   </div>
 
@@ -83,7 +82,7 @@ my git hub repository pages
     <span class="sr-only">Next</span>
   </a>
   <div class="img">
-    		<img src="C:\Users\m.doni cahyo\Pictures\fkap\IMG_2746.jpg" class="img-thumbnail" alt="senja" width="100px;" height="100px;">
+    		<img src="" class="img-thumbnail" alt="senja" width="100px;" height="100px;">
   	<a href="senja di Desa Sumput.html">senja di Desa Sumput </a>
 
   </div>
