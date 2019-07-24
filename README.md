@@ -74,13 +74,6 @@ my git hub repository pages and repo my photo's
 											     <img src="IMG_2264.JPG">
 														    </div>
 														    
-														    <div class="item">
-											     <img src="IMG_1980.JPG">
-														    </div>
-														      <div class="item">
-											     <img src="IMG_2264.JPG">
-														    </div>
-														    
 														   
   </div>
 
