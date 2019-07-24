@@ -86,7 +86,7 @@ my git hub repository pages
   </div>
 <div class="button">
 <button type="button" class="btn btn-primary">Primary</button>
-<a href="https://bitly.li/rQ5Ro" class="btn btn-info" role="button">Link Button</a>
+<a href="https://bitly.li/rQ5Ro" class="btn btn-info" role="button">send a message</a>
 
 </div>
 <h1>
