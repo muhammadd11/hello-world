@@ -65,8 +65,11 @@ my git hub repository pages
 		  <img src="IMG20170508164358.jpg">
 						  </div>
     <div class="item">
-      <img src="IMG_2738.JPG" alt="senja">
+      <img src="IMG_2738.JPG">
     </div>
+			     <div class="item active">
+						     <img src="IMG_1825.JPG">
+									    </div>
   </div>
 
   <!-- Left and right controls -->
