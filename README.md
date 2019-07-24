@@ -98,7 +98,7 @@ my git hub repository pages and repo my photo's
   	<a href="senja di Desa Sumput.html">senja di Desa Sumput </a>
 	<h1 style="color: black;"> hai, gimana kabar kamu hari ini? </h1>
 	<p style="color: black;"> perkenalkan. namaku Mochammad Doni cahyo, biasa dipanggil Doni<br>
-</p
+	</p>
   </div>
 <div class="button">
 <button type="button" class="btn btn-primary">Primary</button>
