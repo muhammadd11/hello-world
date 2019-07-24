@@ -39,7 +39,6 @@ my git hub repository pages
 
 <div class="topnav" id="myTopnav">
   <a href="home.html" class="active">Home</a>
-  <a href="#contact.hmtl">Contact</a>
   <a href="about.html">About</a>
   <a href="javascript:void(0);" class="icon" onclick="myFunction()">
     <i class="fa fa-bars"></i>
