@@ -70,6 +70,9 @@ my git hub repository pages
 			     <div class="item ">
 						     <img src="IMG_1825.JPG">
 									    </div>
+									    <div class="item">
+											     <img src="IMG_1960.JPG">
+														    </div>
   </div>
 
   <!-- Left and right controls -->
@@ -82,7 +85,7 @@ my git hub repository pages
     <span class="sr-only">Next</span>
   </a>
   <div class="img">
-    		<img src="IMG_2478.JPG" class="img-thumbnail" alt="senja" width="100px;" height="100px;">
+    		<img src="IMG_2738.JPG" class="img-thumbnail" alt="senja" width="100px;" height="100px;">
   	<a href="senja di Desa Sumput.html">senja di Desa Sumput </a>
 
   </div>
