@@ -64,7 +64,7 @@ my git hub repository pages
 	  <div class="item active">
 		  <img src="IMG20170508164358.jpg">
 						  </div>
-    <div class="item">
+    <div class="item active">
       <img src="IMG_2738.JPG">
     </div>
 			     <div class="item active">
