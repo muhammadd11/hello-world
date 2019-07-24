@@ -1,5 +1,5 @@
 # hay you, how was your day?
-my git hub repository pages
+my git hub repository pages and repo my photo's
 <html>
 <head>
 	<!-- Latest compiled and minified CSS -->
@@ -58,7 +58,7 @@ my git hub repository pages
   </ol>
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
-    <div class="item active">
+    <div class="item">
       <"img src="IMG_2738.JPG" alt="senja">
     </div>
 	  <div class="item">
@@ -92,7 +92,8 @@ my git hub repository pages
   <div class="img">
     		<img src="IMG_2738.JPG" class="img-thumbnail" alt="senja" width="100px;" height="100px;">
   	<a href="senja di Desa Sumput.html">senja di Desa Sumput </a>
-	<h1 style="color: black;"> hai </h1>
+	<h1 style="color: black;"> hai, gimana kabar kamu hari ini? </h1>
+	<p style="color: black;"> perkenalkan. namaku Mochammad Doni cahyo, biasa dipanggil Doni<br>
 
   </div>
 <div class="button">
