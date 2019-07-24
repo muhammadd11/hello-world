@@ -92,7 +92,7 @@ my git hub repository pages
   <div class="img">
     		<img src="IMG_2738.JPG" class="img-thumbnail" alt="senja" width="100px;" height="100px;">
   	<a href="senja di Desa Sumput.html">senja di Desa Sumput </a>
-	<h1> hai </h1>
+	<h1 style="color: black;"> hai </h1>
 
   </div>
 <div class="button">
