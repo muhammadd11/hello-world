@@ -77,7 +77,11 @@ my git hub repository pages and repo my photo's
 														    <div class="item">
 											     <img src="IMG_1980.JPG">
 														    </div>
+														      <div class="item">
+											     <img src=" IMG_2264.JPG">
+														    </div>
 														    
+														   
   </div>
 
   <!-- Left and right controls -->
