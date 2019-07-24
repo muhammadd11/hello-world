@@ -88,12 +88,11 @@ my git hub repository pages
   <a class="right carousel-control" href="#myCarousel" data-slide="next">
     <span class="glyphicon glyphicon-chevron-right"></span>
     <span class="sr-only">Next</span>
-	<h1> hai, perkenalkan namaku Mochammad Doni Cahyo. biasa dipanggil 'Doni'</h1>
-	<p> aku lahir di Kota Sidoarjo</p>
   </a>
   <div class="img">
     		<img src="IMG_2738.JPG" class="img-thumbnail" alt="senja" width="100px;" height="100px;">
   	<a href="senja di Desa Sumput.html">senja di Desa Sumput </a>
+	<h1> hai </h1>
 
   </div>
 <div class="button">
