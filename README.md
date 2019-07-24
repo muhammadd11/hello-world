@@ -45,7 +45,7 @@ my git hub repository pages and repo my photo's
   </a>
 </div>
 		
-  <div class="carousel-inner">
+  <div class="thumbnail">
     <div class="item">
       <"img src="IMG_2738.JPG" alt="senja">
     </div>
