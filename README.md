@@ -73,6 +73,11 @@ my git hub repository pages
 									    <div class="item">
 											     <img src="IMG_1960.JPG">
 														    </div>
+														    
+														    <div class="item">
+											     <img src="IMG_1980.JPG">
+														    </div>
+														    
   </div>
 
   <!-- Left and right controls -->
