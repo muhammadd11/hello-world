@@ -62,11 +62,7 @@ my git hub repository pages
     <div class="item active">
       <img src="IMG_2738.JPG" alt="senja">
     </div>
-
-    <div class="item">
-      <img src="IMG_2735.JPG" alt="senja">
-    </div>
-
+	  
     <div class="item">
       <img src="IMG_2738.JPG" alt="senja">
     </div>
