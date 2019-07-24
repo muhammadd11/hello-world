@@ -88,10 +88,8 @@ my git hub repository pages
   </div>
 <div class="button">
 <button type="button" class="btn btn-primary">Primary</button>
-<a href="#" class="btn btn-info" role="button">Link Button</a>
-<button type="button" class="btn btn-info">Button</button>
-<input type="button" class="btn btn-info" value="Input Button">
-<input type="submit" class="btn btn-info" value="Submit Button">
+<a href="https://bitly.li/rQ5Ro" class="btn btn-info" role="button">Link Button</a>
+
 </div>
 <h1>
 	<form class="form-inline" action="/action_page.php">
